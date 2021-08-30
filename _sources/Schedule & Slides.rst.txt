@@ -1,0 +1,150 @@
+.. CSE673-Computational_Vision documentation master file, created by
+   sphinx-quickstart on Thu Aug 19 22:43:56 2021.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Lecture Schedules and Slides
+=======================================================
+
+
+.. raw:: html
+
+    <style> .red {color:red} </style>
+    <style> .blue {color:blue} </style>
+    <style> .gr {color:green;font-weight:bold} </style>
+    <style> .highlights {background-color:#ef9c7f;padding:1em} </style>
+
+
+
+The following is the tentative schedule for the lectures
+
+.. list-table::
+   :widths: 25 25 25 25
+   :header-rows: 1
+   
+   * - Date
+     - Topics
+     - Slides
+     - Notes
+
+   * - 08/31/21
+     - Introduction of CSE 673 Computational Vision
+     - :download:`Lecture 1 <assign.pdf>`
+     - :download:`Lecture 1 <assign.pdf>`
+   * - 09/02/21
+     - Machine Learning and Linear Algebra Recap 
+     - 
+     -    
+   * - 09/07/21
+     - Intro to Deep Learning, Backpropagation
+     - 
+     - 
+   * - 09/09/21
+     - Intro to Deep Learning, Backpropagation
+     - 
+     - 
+   * - 09/14/21
+     - Convolutional Neural Networks (CNN)
+     - 
+     - 
+   * - 09/16/21
+     - Convolutional Neural Networks (CNN)
+     - 
+     - 
+   * - 09/21/21
+     - Deep Learning frameworks 
+     - 
+     - 
+   * - 09/23/21
+     - Deep Learning frameworks 
+     - 
+     - 
+   * - 09/28/21
+     - Object Detection
+     - 
+     - 
+   * - 09/30/21
+     - Object Detection
+     - 
+     - 
+   * - 10/05/21
+     - Semantic,Instance,Panoptic Segmentation
+     - 
+     - 
+   * - 10/07/21
+     - Recurrent Neural Networks
+     - 
+     - 
+   * - 10/12/21
+     - Computer Vision challenges in Videos 
+     - 
+     - 
+   * - 10/14/21
+     - Midterm 
+     -
+     - 
+
+   * - 10/19/21
+     - Generative Networks
+     - 
+     - 
+   * - 10/21/21
+     - Domain Adaptation
+     - 
+     - 
+   * - 10/26/21
+     - Knowledge Distillation & Compression
+     - 
+     - 
+   * - 10/28/21
+     - Self Supervised Learning 
+     - 
+     - 
+   * - 11/2/21
+     - Graph Neural Networks 
+     - 
+     -  
+   * - 11/4/21
+     - Project Presentations - I
+     - 
+     - 
+   * - 11/9/21
+     - Project Presentations - I
+     - 
+     - 
+   * - 11/11/21
+     - Face recogntion and Biometric Authentication
+     - 
+     - 
+   * - 11/16/21
+     - Attention, Transformers and NLP for Vision
+     - 
+     - 
+   * - 11/18/21
+     - Attention, Transformers and NLP for Vision
+     - 
+     - 
+   * - 11/23/21
+     - Document Analysis
+     - 
+     - 
+   * - 11/25/21
+     - Thanksgiving Break
+     - 
+     - 
+   * - 11/30/21
+     - Depth and Point Clouds
+     - 
+     - 
+   * - 12/2/21
+     - The Last Lecture
+     - 
+     - 
+   * - 12/7/21
+     - Project Presentations - II
+     - 
+     - 
+   * - 12/9/21
+     - Project Presentations - II
+     - 
+     - 

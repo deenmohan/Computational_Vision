@@ -1,0 +1,26 @@
+.. CSE673-Computational_Vision documentation master file, created by
+   sphinx-quickstart on Thu Aug 19 22:43:56 2021.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+
+Compute Resources
+=======================================================
+
+The Programming Assignments 2 and 3 and the Project would require GPU-based compute. The students can make use of the following resources.
+
+Google Colab
+-------------
+
+Google Colab is an easy-to-use, browser-based environment with access to GPU. It helps you write and execute python-based code. Refer to https://colab.research.google.com/notebooks/intro.ipynb for more details.
+
+
+Center for Computational Resources (CCR)
+----------------------------------------
+
+Center for Computational Resources (CCR) is University at Buffalo's supercomputing facility. Each student will be given an account as part of the course on the academic cluster in CCR. This will allow students to access GPU-based resources. More information regarding the CCR would be provided after the add or drop period.
+
+Google Cloud Platform (GCP) 
+----------------------------
+Students can also sign up for GCP, which provides 300$ credit for student accounts. This option requires a credit card linked to your google account.
+

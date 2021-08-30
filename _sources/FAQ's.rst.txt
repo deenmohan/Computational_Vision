@@ -1,0 +1,84 @@
+.. CSE673-Computational_Vision documentation master file, created by
+   sphinx-quickstart on Thu Aug 19 22:43:56 2021.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Frequently Asked Questions (FAQ's)
+=======================================================
+
+Content
+--------
+
+What will I learn in the course?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The course is aimed to provide a good understanding of the latest computer vision techniques using deep learning. The course will explore will different tasks in computer vision like detection, recognition, segmentation, retrieval, etc. The practical nature of the course will provide hands-on experience in understanding these various tasks. 
+
+What is NOT be covered in the course?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The course will only focus on computer vision and explore deep learning techniques that have application in computer vision. We will not cover Reinforcement Learning or Deep Reinforcement Learning (if interested please see CSE 546). We will not cover Natural Language Processing (apart from that used in the context of vision). 
+
+How much time (per week) would I have to spend on this course?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Even though the time required to complete all the tasks necessary for this course will vary depending on an individual's background, roughly the course may take up to 15-20 hours of your time per week. 
+
+I took Machine Learning/Computer Vision but I did not do well, can I still take this course?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Although you are allowed to take this course, the course structure assumes proficiency in Machine learning/Computer Vision. Talk to the instructors if you still have doubts.
+
+Is this a programming intensive course?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Yes. 75% of your grade will depend upon programming assignments and projects
+
+Which programming language should I have proficiency in?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Python.
+
+
+Logistics/Attendence
+--------------------
+
+Is Attendance mandatory?
+~~~~~~~~~~~~~~~~~~~~~~~~
+Attendance is not mandatory, but highly recommended
+
+Will the lectures be recorded?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+No
+
+Late submission policy?
+~~~~~~~~~~~~~~~~~~~~~~~
+
+The assignment is expected to be submitted at 11:59 PM EST on the due date. A submission late by a day will result in a 30% penalty in the grade. Any later submission will not be graded.
+
+Does the course have Piazza?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Yes. http://piazza.com/buffalo/fall2021/cse673/home
+
+What kind of help will I get during office hours?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The instructors will help with any conceptual doubts. The instructors won't debug your code.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.. raw:: html
+
+    <style> .red {color:red} </style>
+    <style> .blue {color:blue} </style>
+    <style> .gr {color:green;font-weight:bold} </style>
+    <style> .highlights {background-color:#ef9c7f;padding:1em} </style>
+

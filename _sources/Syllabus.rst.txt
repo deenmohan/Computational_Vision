@@ -1,0 +1,140 @@
+.. CSE673-Computational_Vision documentation master file, created by
+   sphinx-quickstart on Thu Aug 19 22:43:56 2021.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Syllabus - Fall Semester 2021
+=======================================================
+
+
+The objective of the course is to help students get an in-depth understanding of real-world computer vision systems. This course will help students realize how modern deep learning techniques are used in current state-of-the-art computer vision tasks and also explore the challenges of designing, implementing, and benchmarking their custom solution for multiple computer vision tasks through a semester-long project.
+
+.. raw:: html
+
+    <style> .red {color:red} </style>
+    <style> .blue {color:blue} </style>
+    <style> .gr {color:green;font-weight:bold} </style>
+    <style> .highlights {background-color:#ef9c7f;padding:1em} </style>
+
+Lecture Time and Location
+-------------------------------
+.. list-table::
+   :widths: 50 25
+   :header-rows: 1
+   
+   * - When ?
+     - Where ?
+   * - Tuesday & Thursday 3:55 to 5:10 PM
+     - Clemens 04 (Basement)
+
+Office Hour Time and Location
+--------------------------------
+.. list-table::
+   :widths: 25 25 50
+   :header-rows: 1
+
+   * - Who ?
+     - When ?
+     - Where ?
+   * - Deen Dayal Mohan
+     - Wednesday 2-3 PM
+     - 113 Y Davis Hall
+   * - Senior PhD Student 
+     - TBA
+     - TBA
+
+Prerequisites
+-------------
+ 
+* Engineering Probability, Data Structures, Programming in Python
+* CSE 574 Machine Learning or CSE 573 Computer vision. 
+
+Topics
+-------
+The following is the list of topics we will cover this semester. The selection of topics has been made to provide the student with both a fair sampling and in-depth, useful know-how of recent advancements in different areas of computer vision. As many topics as possible will be grounded with real-world problems and data, and they will be presented both in terms of the mathematical theory as well as the algorithmic and programming aspects. 
+
+.. list-table::
+   :widths: 25 50
+   :header-rows: 1
+   
+   * - SL.NO
+     - Topic
+   * - 1
+     - Introduction to Computer Vision.
+   * - 2
+     - Machine learning and Linear Algebra Recap 
+   * - 3
+     - Intro to Deep Learning, Backpropagation and Optimizers 
+   * - 4 
+     - Image Processing and Convolutional Neural Network (CNN)  
+   * - 5
+     - CNN architectures for Recognition
+   * - 6
+     - CNNs for Detection
+   * - 7
+     - CNNs for Segmentation. 
+   * - 8
+     - Videos Processing and computer vision challenges in Videos 
+   * - 9
+     - Visualization and interpretation of CNNs
+   * - 10
+     - Generative Models
+   * - 11
+     - Self Supervised Learning (SSL)
+   * - 12
+     - Other advanced topics
+
+While this is a reasonable outline, the instructor reserves the right to change the syllabus as he
+sees fit.
+
+Course Text
+-----------
+The course has an optional textbook
+
+Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville. https://www.deeplearningbook.org/
+
+Grade Distribution
+-------------------
+.. list-table::
+   :widths: 25 25
+   :header-rows: 1
+
+   * - Course Components 
+     - Percentage of Grade
+   * - Programming Assignments 
+     - 35
+   * - Mid-term Exa,
+     - 15
+   * - Quizzes
+     - 10
+   * - Project and Presentation
+     - 40
+
+Quizzes and Mid-term Exam
+--------------------------
+* Bi-Weekly Quizzes using UBlearns 
+* Mid-term Exam will be in class, conducted during one the lectures (refer schedule for the exact date)
+* Mid-term is closed book and will contain multiple choice, numerical and descriptive questions
+
+
+
+Academic Integrity
+------------------
+
+* A zero-tolerance policy on cheating will be adopted in this course. The following is the formal statement of academic integrity. https://engineering.buffalo.edu/computer-science-engineering/information-for-students/academics/academic-integrity.html#departmental-policy-on-academic-integrity-violations.
+* This course has programming assignments mostly based on the Python programming environment. We use sophisticated code checkers to check for code copied from assignmentsfrom this class as well as code available on the internet. 
+* It is very improbable that you will be able to fool the code checker. When you are in doubt, please check with the Instructor for clarity. 
+* Any such act of acedmic integrity violation would lead to an assignment of 'F' grade in the course.
+
+Incomplete Policy
+-----------------
+* We only grant incompletes in this course under the direst of circumstances.
+* By definition, an incomplete is warranted if the student is capable of completing the course satisfactorily, but some traumatic event has interfered with their capability to finish within the timeframe of the semester.
+* Incompletes are not designed as a stalling tactic to defer a poor performance in a class. 
+
+
+Accessibility Services
+-----------------------
+* If you have special needs, you must be registered with the Office of Accessibility Resources  http://www.buffalo.edu/accessibility/ .
+* If you are registered with them please let your instructors know about this so that they can make special arrangements for you.   
+

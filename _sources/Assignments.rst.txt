@@ -1,0 +1,65 @@
+.. CSE673-Computational_Vision documentation master file, created by
+   sphinx-quickstart on Thu Aug 19 22:43:56 2021.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Assignments
+============
+
+
+ To familiarize students with the recent advancements in computer vision, there will be three programming assignments during the initial half of the course.
+
+PA - 1
+-------------
+ This assignment will focus on the fundamentals of deep learning. The students will implement different types of layers that form the building blocks of neural networks using NumPy. Furthermore, the students will create a neural network with these layers and train it using the Backpropagation algorithm.
+
+ .. list-table:: 
+   :widths: 35 35 35
+   :header-rows: 1
+
+   * - Release Date
+     - Document 
+     - Submission Date
+
+   * - September 7, 2021
+     - :download:`document <assign.pdf>`
+     - September 28, 2021
+
+
+
+PA - 2
+-------------
+
+ The students will explore different aspects of object recognition in this assignment. They will work with TensorFlow, Pytorch, or Keras to implement a custom object recognition model. Additionally, they will use methods in Transfer Learning and Deep Metric Learning to further improve the performance on standard datasets 
+
+ .. list-table:: 
+   :widths: 35 35 35
+   :header-rows: 1
+
+   * - Release Date
+     - Document 
+     - Submission Date
+
+   * - TBA
+     - :download:`document <assign.pdf>`
+     - TBA
+
+
+
+PA - 3
+---------------
+
+ This assignment is designed to help students delve deeper into the area of object detection.  Students will learn to adapt generic object detection methods to a specific computer vision problem and explore techniques to improve performance benchmark.
+
+ .. list-table:: 
+   :widths: 35 35 35
+   :header-rows: 1
+
+   * - Release Date
+     - Document 
+     - Submission Date
+
+   * - TBA
+     - :download:`document <assign.pdf>`
+     - TBA
+
