@@ -60,7 +60,7 @@ The following is the list of topics we will cover this semester. The selection o
    * - SL.NO
      - Topic
    * - 1
-     - Introduction to Computer Vision.
+     - Introduction to Computer Vision
    * - 2
      - Machine learning and Linear Algebra Recap 
    * - 3
@@ -72,7 +72,7 @@ The following is the list of topics we will cover this semester. The selection o
    * - 6
      - CNNs for Detection
    * - 7
-     - CNNs for Segmentation. 
+     - CNNs for Segmentation
    * - 8
      - Videos Processing and computer vision challenges in Videos 
    * - 9

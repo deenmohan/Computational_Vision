@@ -27,7 +27,7 @@ Although you are allowed to take this course, the course structure assumes profi
 
 Is this a programming intensive course?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Yes. 75% of your grade will depend upon programming assignments and projects
+Yes. 75% of your grade will depend upon programming assignments and projects.
 
 Which programming language should I have proficiency in?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -39,11 +39,11 @@ Logistics/Attendence
 
 Is Attendance mandatory?
 ~~~~~~~~~~~~~~~~~~~~~~~~
-Attendance is not mandatory, but highly recommended
+Attendance is not mandatory, but highly recommended.
 
 Will the lectures be recorded?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-No
+No.
 
 Late submission policy?
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -53,7 +53,7 @@ The assignment is expected to be submitted at 11:59 PM EST on the due date. A su
 Does the course have Piazza?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Yes. http://piazza.com/buffalo/fall2021/cse673/home
+Yes. http://piazza.com/buffalo/fall2021/cse673/home.
 
 What kind of help will I get during office hours?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
