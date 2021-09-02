@@ -33,7 +33,7 @@ The following is the tentative schedule for the lectures
      - :download:`Lecture 1 <assign.pdf>`
    * - 09/02/21
      - Machine Learning and Linear Algebra Recap 
-     - 
+     - :download:`Lecture 1 <Lecture-2 Recap.pdf>`
      -    
    * - 09/07/21
      - Intro to Deep Learning, Backpropagation
