@@ -29,7 +29,7 @@ The following is the tentative schedule for the lectures
 
    * - 08/31/21
      - Introduction of CSE 673 Computational Vision
-     - :download:`Lecture 1 <assign.pdf>`
+     - :download:`Lecture 1 <Lecture -1 Introduction.pdf>`
      - :download:`Lecture 1 <assign.pdf>`
    * - 09/02/21
      - Machine Learning and Linear Algebra Recap 
