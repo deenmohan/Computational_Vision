@@ -37,7 +37,7 @@ The following is the tentative schedule for the lectures
      -    
    * - 09/07/21
      - Intro to Deep Learning, Backpropagation
-     - 
+     - :download:'Lecture 3 <Lecture-3 Backpropagation.pdf>'
      - 
    * - 09/09/21
      - Intro to Deep Learning, Backpropagation
