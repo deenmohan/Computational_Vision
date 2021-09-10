@@ -21,9 +21,9 @@ PA - 1
      - Document 
      - Submission Date
 
-   * - September 7, 2021
-     - :download:`document <assign.pdf>`
-     - September 28, 2021
+   * - September 10, 2021
+     - :download:`Zip <Assignment 1.zip>`
+     - September 30, 2021
 
 
 
