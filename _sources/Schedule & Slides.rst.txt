@@ -40,16 +40,16 @@ The following is the tentative schedule for the lectures
      - :download:`Lecture 3 <Lecture-3 Backpropagation.pdf>`
      - 
    * - 09/09/21
-     - Intro to Deep Learning, Backpropagation
-     - 
+     - Optimizers,Initialization,Activations
+     - :download:`Lecture 4 <Lecture_-_4_OptimizersInitializationActivations.pdf>`
      - 
    * - 09/14/21
      - Convolutional Neural Networks (CNN)
-     - 
+     - :download:`Lecture 5 <Convolutional_Neural_Network.pdf>`
      - 
    * - 09/16/21
      - Convolutional Neural Networks (CNN)
-     - 
+     - :download:`Lecture 6 <Convolutional_Neural_Networks_-_II.pdf>`
      - 
    * - 09/21/21
      - Deep Learning frameworks 
