@@ -103,7 +103,7 @@ Grade Distribution
      - Percentage of Grade
    * - Programming Assignments 
      - 35
-   * - Mid-term Exa,
+   * - Mid-term Exam,
      - 15
    * - Quizzes
      - 10
